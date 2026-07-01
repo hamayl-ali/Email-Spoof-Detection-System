@@ -27,20 +27,6 @@ A Python-based cybersecurity tool that analyzes **.eml email files** and detects
 
 ---
 
-## 📂 Project Structure
-
-```
-Email-Spoof-Detection/
-│
-├── detector.py                 # Main detection engine
-├── generate_samples.py         # Generates sample .eml files
-├── sample_emails/              # Legitimate & phishing emails
-├── report.csv                  # Generated report (optional)
-└── README.md
-```
-
----
-
 ## 🚀 Installation
 
 Clone the repository:
@@ -209,7 +195,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Hamayl Ali**
 
 Cybersecurity Enthusiast | Python Developer | SOC Analyst Aspirant
 
