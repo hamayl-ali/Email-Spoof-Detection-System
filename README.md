@@ -32,9 +32,9 @@ A Python-based cybersecurity tool that analyzes **.eml email files** and detects
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/email-spoof-detector.git
+git clone https://github.com/hamayl-ali/Email-Spoof-Detection-System.git
 
-cd email-spoof-detector
+cd Email-Spoof-Detection-System
 ```
 
 No external libraries are required.
