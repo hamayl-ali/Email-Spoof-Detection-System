@@ -18,10 +18,10 @@ A Python-based cybersecurity tool that analyzes **.eml email files** and detects
 - ✅ Detects urgency and social engineering language
 - ✅ Assigns risk scores
 - ✅ Classifies severity:
-  - Low
-  - Medium
-  - High
-  - Critical
+  - Low.
+  - Medium.
+  - High.
+  - Critical.
 - ✅ Generates CSV reports
 - ✅ Supports scanning a single email or an entire directory
 
